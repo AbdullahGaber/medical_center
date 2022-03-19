@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "467671215559",
+    "project_id": "medicalcenter-1407d",
+    "storage_bucket": "medicalcenter-1407d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467671215559:android:cb80662b3de5f21aefbde2",
+        "android_client_info": {
+          "package_name": "com.abdullahGaber.medical_center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467671215559-13i5hdev80au7p17kc176d9i7v374st4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdullahGaber.medical_center",
+            "certificate_hash": "0a0cb3c1de1f62b00376f33bfd0dfd9d2ffb7577"
+          }
+        },
+        {
+          "client_id": "467671215559-9udnkklb5p64boj2n8qh4bsqn2e6o7tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo_3EiaRVHyWZX2KMbG0RHrbDm2ZFsFN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467671215559-9udnkklb5p64boj2n8qh4bsqn2e6o7tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
